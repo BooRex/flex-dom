@@ -1,0 +1,22 @@
+{
+  "name": "flex-dom",
+  "version": "1.0.0",
+  "description": "Simple lib which provides ability to create small JS projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BooRex/flex-dom.git"
+  },
+  "keywords": [
+    "js",
+    "dom",
+    "flex",
+    "flex-dom"
+  ],
+  "author": "Oleh Brytvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BooRex/flex-dom/issues"
+  },
+  "homepage": "https://github.com/BooRex/flex-dom#readme"
+}
